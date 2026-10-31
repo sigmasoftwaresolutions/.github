@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/sigmasoftwaresolutions.png" alt="Sigma Software Solutions Logo" width="140" height="140">
-
 # Sigma Software Solutions
 
 ### Your Trusted Partner for IT Solutions, Software & Technology Services
